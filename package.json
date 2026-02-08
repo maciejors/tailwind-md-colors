@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-md-colors",
+  "version": "1.0.0",
+  "description": "Google's Material Design color palette available to Tailwind v4",
+  "license": "MIT",
+  "author": "maciejors",
+  "files": [
+    "index.css"
+  ],
+  "main": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maciejors/tailwind-md-colors.git"
+  },
+  "keywords": [
+    "tailwind",
+    "material",
+    "colors",
+    "theme",
+    "css"
+  ]
+}
